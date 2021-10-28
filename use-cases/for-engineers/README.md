@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # For Engineers
 
 {% hint style="info" %}
